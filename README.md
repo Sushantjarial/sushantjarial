@@ -20,7 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantjarial&show_icons=true&locale=en" alt="sushantjarial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantjarial&" alt="sushantjarial" /></p>
 
 <!-- Hacktoberfest Badges Section -->
 <h3 align="center">Hacktoberfest Badges:</h3>
