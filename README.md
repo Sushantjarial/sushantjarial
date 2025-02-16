@@ -67,7 +67,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantjarial&show_icons=true&locale=en" alt="sushantjarial" /></p>
 
-<!-- Hacktoberfest Badges Section -->
+
 <h3 align="center">Hacktoberfest Badges:</h3>
 <p align="center">
   <a href="https://hacktoberfest.digitalocean.com/">
