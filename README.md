@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sushantjarial&label=Profile%20views&color=0e75b6&style=flat" alt="sushantjarial" /> 
 </p>
 
-- 🔭 I’m currently working on <a href="https://campusexchange.pages.dev" target="_blank">CampusExchange</a>
+- 🔭 I’m currently working on <a href="https://campusexchange.pages.dev" target="_blank">CampusExchange</a> and <a href="openverse.sushantjarial.tech" target="_blank">Openverse</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
